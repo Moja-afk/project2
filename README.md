@@ -30,7 +30,8 @@ Here's a walkthrough of implemented user stories:
 <img src='https://imgur.com/I9W7ZCw' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ![Walkthrough](https://imgur.com/I9W7ZCw)
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ...  ![Wishlist](https://user-images.githubusercontent.com/56139859/196946284-afc0fd03-3991-48be-bf54-c83b2d0012c5.gif)
+
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
